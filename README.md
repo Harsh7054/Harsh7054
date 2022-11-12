@@ -3,9 +3,7 @@
 📫 How to reach me: kumarharsh07054@gmail.com
 
 
-![coding](https://user-images.githubusercontent.com/118070311/201486639-6fe4b7d9-55f1-4b66-8def-70517cdfcf22.gif)
-
-![typing-jim-carrey](https://user-images.githubusercontent.com/118070311/201488008-e37ddb02-10ef-471d-aea1-84219c1864f6.gif)
+![coding](https://user-images.githubusercontent.com/118070311/201486639-6fe4b7d9-55f1-4b66-8def-70517cdfcf22.gif)   ![typing-jim-carrey](https://user-images.githubusercontent.com/118070311/201488008-e37ddb02-10ef-471d-aea1-84219c1864f6.gif)
 
 
 

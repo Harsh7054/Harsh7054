@@ -1,4 +1,11 @@
 ### Hi there 👋
+🌱 I’m currently learning Java,Verilog and C.
+📫 How to reach me: kumarharsh07054@gmail.com
+
+
+![coding](https://user-images.githubusercontent.com/118070311/201486639-6fe4b7d9-55f1-4b66-8def-70517cdfcf22.gif)
+
+
 
 <!--
 **Harsh7054/Harsh7054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

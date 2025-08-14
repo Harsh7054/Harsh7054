@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Java,Verilog and C.
+🌱 I’m currently learning Javascript.
 📫 How to reach me: kumarharsh07054@gmail.com
 
 

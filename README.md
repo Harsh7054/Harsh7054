@@ -54,7 +54,7 @@
 
 ## 🤝 Let’s connect
 - Email: **kumarharsh07054@gmail.com**  
-- Portfolio (soon): _add link when live_
+- Portfolio (soon)
 
 ---
 

@@ -1,40 +1,97 @@
-<!-- Profile Header -->
 <div align="center">
 
 # 👋 Hi, I'm Harsh  
-### Full-stack dev in progress • JavaScript | MERN
+### 🌱 Aspiring Full-Stack Developer | Currently learning JavaScript & MERN Stack  
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Harsh7054&label=Profile%20Views&color=0e75b6)](https://github.com/Harsh7054)
 [![Followers](https://img.shields.io/github/followers/Harsh7054?style=social)](https://github.com/Harsh7054?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Harsh7054?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/Harsh7054?tab=repositories)
 
 </div>
 
 ---
 
-## ✨ About me
-- 🔭 Building projects and sharpening **JavaScript / MERN** skills  
-- 🧠 I like clean code, readable commits, and small iterations  
+## ✨ About Me
+- 💻 I like **clean code**, readable commits, and small iterations  
 - 🤝 Open to collaborating on **web apps, dashboards, and tooling**  
 - 📫 Reach me: **kumarharsh07054@gmail.com**
 
 ---
 
-## 🧰 Tech stack
+## 🛠 Tech Stack  
+
 <p align="center">
-  <a href="#"><img alt="Tech stack" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman,tailwind&perline=6" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" /><br>
+    <sub>HTML5 – Structure</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" /><br>
+    <sub>CSS3 – Styling</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /><br>
+    <sub>JavaScript – Logic</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" /><br>
+    <sub>React – UI</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /><br>
+    <sub>Node.js – Backend</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" /><br>
+    <sub>Express – API</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br>
+    <sub>MongoDB – Database</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" /><br>
+    <sub>Git – Version Control</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /><br>
+    <sub>GitHub – Hosting</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /><br>
+    <sub>VS Code – IDE</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /><br>
+    <sub>Postman – API Testing</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /><br>
+    <sub>Tailwind – CSS Framework</sub>
+  </a>
 </p>
 
 ---
 
-## 📌 Featured work
-> A few repos worth peeking at (more inside **Projects**)
+## 📌 Featured Work
+> Some of my projects (more inside **Projects** repo)
 
-- 🗂 **Projects** – the hub for everything I’m building → [Harsh7054/Projects](https://github.com/Harsh7054/Projects)  
-- 🛒 **Amazon-style UI Clone** → https://github.com/Harsh7054/Projects/tree/main/Amazon%20Clone
+- 🗂 **[Projects](https://github.com/Harsh7054/Projects)** – Hub for all my work  
+- 🛒 **Amazon Clone** – https://github.com/Harsh7054/Projects/tree/main/Amazon%20Clone
+
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh7054&show_icons=true&rank_icon=github&theme=transparent" height="165" />
   <img src="https://streak-stats.demolab.com?user=Harsh7054&theme=transparent" height="165" />
@@ -45,21 +102,8 @@
 
 ---
 
-## 🗓️ What I’m up to
-- 📚 Currently learning **advanced JS patterns** and **React hooks**  
-- 🧪 Exploring **API design** with Node/Express and **MongoDB** best practices  
-- 🎯 Goal: ship 2–3 polished projects this month
-
----
-
-## 🤝 Let’s connect
-- Email: **kumarharsh07054@gmail.com**  
-- Portfolio (soon)
-
----
-
 <div align="center">
 
-> “Turning ideas into code, one project at a time.”  
+> 🌟 “Turning ideas into code, one project at a time.” 🌟  
 
 </div>

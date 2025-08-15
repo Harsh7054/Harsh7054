@@ -57,6 +57,6 @@
 
 <div align="center">
 
-> 🌟 “Turning ideas into code, one project at a time.” 🌟  
+🌟 “Turning ideas into code, one project at a time.” 🌟  
 
 </div>
